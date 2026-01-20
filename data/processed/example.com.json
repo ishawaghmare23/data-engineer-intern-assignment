@@ -1,0 +1,30 @@
+[
+  {
+    "website": "https://example.com",
+    "section": "navbar",
+    "content": "",
+    "crawl_timestamp": "2026-01-20T08:43:22.443996",
+    "isActive": true
+  },
+  {
+    "website": "https://example.com",
+    "section": "homepage",
+    "content": "Example Domain This domain is for use in documentation examples without needing permission. Avoid use in operations. Learn more",
+    "crawl_timestamp": "2026-01-20T08:43:22.443996",
+    "isActive": true
+  },
+  {
+    "website": "https://example.com",
+    "section": "footer",
+    "content": "",
+    "crawl_timestamp": "2026-01-20T08:43:22.443996",
+    "isActive": true
+  },
+  {
+    "website": "https://example.com",
+    "section": "case_study",
+    "content": "",
+    "crawl_timestamp": "2026-01-20T08:43:22.443996",
+    "isActive": true
+  }
+]
